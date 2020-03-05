@@ -20,4 +20,4 @@ which are Z , U, H to accelerate training.
 data, I used back propagation to calculate gradient
 7. After training, using test data to test the accuracy of my training model.
 ## Result:
-![image](https://ibb.co/DMXc0q2)
+![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW2/Result.png)
