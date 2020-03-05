@@ -499,5 +499,5 @@ Here is an example output of mine for a particular model:
 This performs better than all of the previous models. By leveraging the additional unlabeled data and pre-training the network as a language model, we can achieve even better results than the GloVe features trained on a much larger dataset. To put this in perspective, the state of the art on the IMDB sentiment analysis is around 97.4%.
 
 ## Result
-
+- [Result](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW6/NLP_HW6.pdf)
 
