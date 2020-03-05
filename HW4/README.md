@@ -14,3 +14,9 @@ asynchronous SGD is a 10-point bonus question.
 | ResNet CIFAR100 with synchronous SGD |  60% |
 ## Implementation
 ### Resnet Architecture
+<div align=center>
+	<img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Resnet_1.png" width="400">
+  <img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Resnet_2.PNG" width="400">
+</div>
+### Distributed Training
+Using distributed training to implement Synchronous SGD method on ResNet with multicore
