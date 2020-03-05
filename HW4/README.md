@@ -25,3 +25,5 @@ Using distributed training to implement Synchronous SGD method on ResNet with mu
 	<img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/Sync_alg.png" width="400">
   <img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/All_reduce.PNG" width="400">
 </div>
+## Result
+(https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Result.pdf)
