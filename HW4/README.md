@@ -15,8 +15,13 @@ asynchronous SGD is a 10-point bonus question.
 ## Implementation
 ### Resnet Architecture
 <div align=center>
-	<img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Resnet_1.png" width="400">
-  <img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Resnet_2.PNG" width="400">
+	<img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/Resnet_2.PNG" width="400">
+  <img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/Resnet_1.png" width="400">
 </div>
+
 ### Distributed Training
 Using distributed training to implement Synchronous SGD method on ResNet with multicore
+<div align=center>
+	<img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/Sync_alg.png" width="400">
+  <img src = "https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW4/Image/All_reduce.PNG" width="400">
+</div>
