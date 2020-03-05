@@ -13,3 +13,6 @@ I’m not directly providing you with any finished python files. This is written
 
 ## What to turn in
 Make a copy of the google sheet here. This is how you should summarize your results. Write a sentence or two for each model you train in parts 1a, 1b, 2a, 2b, and 3c. For part 3a, the assignment only requires you to train the model with the hyperparamters I give you. For part 3b, you will generate fake movie reviews
+
+## Result
+- [Result]()
