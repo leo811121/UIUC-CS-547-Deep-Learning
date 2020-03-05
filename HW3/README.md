@@ -32,5 +32,5 @@ of all result.
 When using filter size as 3 X3 filter number as 3, epoch as 3 , and learning as
 0.01. Accuracy is above 94% for training data and above 95 % for testing
 ![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW3/Result.png)
-![image](https://github.com/cletusajibade/deep-learning-uiuc/blob/master/assignments/mp3/fig/cnn.png)
+
 
