@@ -4,6 +4,8 @@ Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. 
 (B) trained with RMSprop or ADAM, and (C) data augmentation. For 10% extra credit, compare dropout test accuracy 
 (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. For full credit, the model should achieve 80-90% Test Accuracy.
 ## Implementation
+Architecture:
+![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW3/Network.png.jpg)
 Implementation:
 I implemented a multi channel CNN with multiple channel and Adam Adam
 optimization to train my model. In the CNN, some layer I follow the frame from the
@@ -29,6 +31,6 @@ method(model.eval()) and Monte Carlo method on testing For Monte
 Carlo method, I set the for loop as 100 t imes and then calculated the average
 of all result.
 ## Result:
-![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW3/Result.png)
+![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW3/Result.jpg)
 
 
