@@ -12,7 +12,7 @@ The assignment starts off with how to preprocess the dataset into a more appropr
 I’m not directly providing you with any finished python files. This is written more like a tutorial with excerpts of code scattered throughout. You will have to take these pieces of code, combine them, edit them, add to them, etc. and figure out how to run them on BlueWaters. You will also need to change a variety of hyperparameters and run them multiple times.
 
 ## What to turn in
-Make a copy of the google sheet here. This is how you should summarize your results. Write a sentence or two for each model you train in parts 1a, 1b, 2a, 2b, and 3c. For part 3a, the assignment only requires you to train the model with the hyperparamters I give you. For part 3b, you will generate fake movie reviews
+Make a copy of the google sheet here. This is how you should summarize your results. Write a sentence or two for each model you train in parts 1a, 1b, 2a, 2b.
 
 ## Result
-- [Result]()
+- [Result](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW5/NLP_Result.pdf)
