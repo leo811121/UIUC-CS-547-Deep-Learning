@@ -29,8 +29,6 @@ method(model.eval()) and Monte Carlo method on testing For Monte
 Carlo method, I set the for loop as 100 t imes and then calculated the average
 of all result.
 ## Result:
-When using filter size as 3 X3 filter number as 3, epoch as 3 , and learning as
-0.01. Accuracy is above 94% for training data and above 95 % for testing
 ![image](https://github.com/leo811121/UIUC-CS-547-Deep-Learning/blob/master/HW3/Result.png)
 
 
